@@ -76,8 +76,8 @@ def main():
     heart(-80, -100, 1.5)  # 画出第二颗心
     arrow()  # 画出穿过两颗心的直线
     arrowHead()  # 画出箭的箭头
-    go_to(300, -300)
-    write("author：刘星宇", move=True, align="left", font=("宋体", 30, "normal"))
+    go_to(400, -300)
+    write("author：520Python", move=True, align="left", font=("宋体", 30, "normal"))
     done()
 
 
